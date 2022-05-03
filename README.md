@@ -10,6 +10,10 @@ Instructions:
   * Type our python code in the Python IDLE code editor
   * Left Click the File menu - Left Click Save
   * Name your file as ourCode.py
+  * Left Click Save Button to confirm the save
+  * Left Click Run Menu - Left Click Run Module OR
+  * Press F5 to run the script
+  * To run the script from our folder, we just double click on the file named ourCode.py
   
   We can make a python code very easily. We just type our python code in our python code editor and then save it as ourCode.py
   
