@@ -27,16 +27,16 @@ def urlGoTo(whichURL) :
 labelCollegeName = Label(ourWindow,
 text = 'College of Scripting\nMusic & Science',
 width = 200,
-font=("Tahoma", 14, 'bold'), fg = 'white',
+font = ("Tahoma", 14, 'bold'), fg = 'white',
 bg = 'black').pack(pady = 5, padx =5)
 
 buttonCollegeWebsite = Button(ourWindow, text = "Website", command = lambda: urlGoTo(collegeWebsite),
-font=("Tahoma", 12, 'bold'),
+font = ("Tahoma", 12, 'bold'),
 activebackground = "white",
 fg = 'white', bg = 'black').pack(pady=5, padx=5)
 
 buttonCollegeYouTube = Button(ourWindow, text = "YouTube Channel", command = lambda: urlGoTo(collegeYouTube),
-font=("Tahoma", 12, 'bold'),
+font = ("Tahoma", 12, 'bold'),
 activebackground = "white",
 fg = 'white', bg = 'black').pack(pady=5, padx=5)
 
