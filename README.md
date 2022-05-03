@@ -7,7 +7,7 @@ Instructions:
   * Open the Python Folder to find the Python IDLE
   * Open the Python IDLE
   * Left Click the File menu - Left Click New File
-  * Type python code in the Python IDLE code editor
+  * Type our python code in the Python IDLE code editor
   * Left Click the File menu - Left Click Save
   * Name your file as ourCode.py
   
