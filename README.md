@@ -15,6 +15,8 @@ Instructions:
   * Press F5 to run the script
   * To run the script from our folder, we just double click on the file named ourCode.py
   
-  We can make a python code very easily. We just type our python code in our python code editor and then save it as ourCode.py
+  We can create our python code very easily.
+  
+  We just type our python code in our python code editor and then save it as ourCode.py
   
   If we want no console window to open with the app, then we name our file as ourFile.pyw
