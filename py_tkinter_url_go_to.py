@@ -1,7 +1,8 @@
 # Dedicated to God the Father
 # All Rights Reserved Christopher Topalian Copyright 2000-2022
 # py_tkinter_url_go_to.py
-# creates an interface window using tkinter that has one label and two buttons. When left clicked, each button opens one specified URL in our default web browser.
+# creates an interface window using tkinter that has one label and two buttons.
+# when left clicked, each button opens one specified URL in our default web browser.
 
 import ctypes
 import webbrowser
