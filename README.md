@@ -5,6 +5,7 @@ Instructions:
  INSTALL PYTHON
    * Download Python from the official source https://www.python.org/downloads/
    * Install Python
+  
  CREATE NEW FILE
    * Open the Python Folder to find the Python IDLE
    * Open the Python IDLE
@@ -13,6 +14,7 @@ Instructions:
    * Left Click the File menu - Left Click Save
    * Name your file as ourCode.py
    * Left Click Save Button to confirm the save
+   
  RUN OUR SCRIPT
    * Left Click Run Menu - Left Click Run Module OR
    * Press F5 to run the script
