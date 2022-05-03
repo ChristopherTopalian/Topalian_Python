@@ -2,6 +2,7 @@
 Learn Python the fun way with our visual teaching style. Learn step by step here.
 
 Instructions:
+
  INSTALL PYTHON
    * Download Python from the official source https://www.python.org/downloads/
    * Install Python
