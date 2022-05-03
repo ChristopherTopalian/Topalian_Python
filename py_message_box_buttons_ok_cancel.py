@@ -1,7 +1,7 @@
 # Dedicated to God the Father
 # All Rights Reserved Christopher Topalian Copyright 2000-2022
 # py_message_box_buttons_ok_cancel.py
-# creates a message box with a title, text message,OK button and Cancel button
+# creates a message box with a title, text message, OK button and Cancel button
 
 import ctypes
 
