@@ -9,7 +9,7 @@
  here are some of the options below:
 
  Truth Table Style Conventions
-
+***
  ## Style 1
  
  AND GATE Truth Table
@@ -23,7 +23,7 @@
  1  0  =  0
  
  1  1  =  1
-
+***
  ## Style 2
  
  AND GATE Truth Table
@@ -37,7 +37,7 @@
  0  1  =  0
  
  1  1  =  1
-
+***
 ## Style 3
 
  AND GATE Truth Table
