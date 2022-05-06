@@ -11,11 +11,17 @@
  Truth Table Style Conventions
 
  Style 1
+ 
  AND GATE Truth Table
+ 
  A  B
+ 
  0  0  =  0
+ 
  0  1  =  0
+ 
  1  0  =  0
+ 
  1  1  =  1
 
  Style 2
