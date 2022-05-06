@@ -10,7 +10,7 @@
 
  Truth Table Style Conventions
 
- Style 1
+ ##Style 1
  
  AND GATE Truth Table
  
@@ -24,7 +24,7 @@
  
  1  1  =  1
 
- Style 2
+ ##Style 2
  
  AND GATE Truth Table
  
@@ -38,7 +38,7 @@
  
  1  1  =  1
 
-Style 3
+##Style 3
 
  AND GATE Truth Table
  
