@@ -25,17 +25,29 @@
  1  1  =  1
 
  Style 2
+ 
  AND GATE Truth Table
+ 
  A  B
+ 
  0  0  =  0
+ 
  1  0  =  0
+ 
  0  1  =  0
+ 
  1  1  =  1
 
 Style 3
+
  AND GATE Truth Table
+ 
  A  B
+ 
  1  1  =  1
+ 
  1  0  =  0
+ 
  0  1  =  0
+ 
  0  0  =  0
