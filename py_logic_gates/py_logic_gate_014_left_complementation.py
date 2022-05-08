@@ -11,10 +11,10 @@ A = 0
 B = 0
 
 if (A == 0):
-    print('Both False or B False')
+    print('Both False or B True')
 
     windll.user32.MessageBoxW(0,
-    'Both False or B False', 'LC Gate', 0)
+    'Both False or B True', 'LC Gate', 0)
 
 input('Press Enter to Exit')
 
