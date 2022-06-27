@@ -2,7 +2,7 @@
 # All Rights Reserved Christopher Topalian Copyright 2000-2022
 # https://github.com/ChristopherTopalian
 # py_name_of_user_002.py
-# shows the Username using print and MessageBox
+# shows the Username using print and MessageBoxW
 
 import ctypes
 from getpass import getuser
