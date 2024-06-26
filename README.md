@@ -110,7 +110,7 @@ ourNumbers = [
 ]
 
 for z in range(len(ourNumbers)):
-    print(z)
+    print(ourNumbers[z])
 
 input('')
 ```
