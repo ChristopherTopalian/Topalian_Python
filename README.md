@@ -100,3 +100,17 @@ for z in ourNumbers:
 
 input('')
 ```
+
+---
+
+#### ``` for in range with len ```
+```python
+ourNumbers = [
+    4, 875, 23, 543, 12
+]
+
+for z in range(len(ourNumbers)):
+    print(z)
+
+input('')
+```
