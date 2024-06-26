@@ -122,7 +122,7 @@ input('')
 ourHTMLContent = """
 <html>
 <head>
-<title> Our HTML page </title>
+<title> Our HTML Page </title>
 
 <style>
 
