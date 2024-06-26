@@ -241,15 +241,3 @@ input('')
 ```
 
 ---
-
-#### ``` reversed list, for loop ```
-```python
-names = ['Jane', 'Jennifer', 'Melissa', 'Tabitha']
-
-namesReversed = reversed(names)
-
-for z in namesReversed:
-    print(z)
-
-input('')
-```
