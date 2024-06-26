@@ -14,7 +14,7 @@ input('')
 
 ---
 
-### ``` time.sleep() ```
+#### ``` time.sleep() ```
 ```python
 import time
 
@@ -26,7 +26,7 @@ input('')
 
 ---
 
-### ``` time.sleep(), while loop ```
+#### ``` time.sleep(), while loop ```
 ```python
 import time
 
@@ -41,7 +41,7 @@ input('')
 
 ---
 
-### ``` while loop activated by input ```
+#### ``` while loop activated by input ```
 ```python
 import time
 
@@ -50,6 +50,28 @@ x = input('Type 1 and press Enter\n')
 while (x == '1'):
     time.sleep(4.0)
     print('4 seconds passed')
+
+input('')
+```
+
+---
+
+#### ```print and sleep```
+```python
+import time
+
+print('Hi Friend')
+
+time.sleep(3.0)
+
+print('Is the sun shining?')
+
+sunShining = input('y/n\n')
+
+if (sunShining == 'y'):
+    print('Nice that it is sunny out')
+else:
+    print('The sun will be there soon')
 
 input('')
 ```
