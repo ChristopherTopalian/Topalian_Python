@@ -213,3 +213,29 @@ else:
 
 input('')
 ```
+
+---
+
+#### ``` for loop with reverse ```
+```python
+names = ['Jane', 'Jennifer', 'Melissa', 'Tabitha']
+
+for z in reversed(names):
+    print(z)
+
+input('')
+```
+
+---
+
+#### ``` reversed list, for loop ```
+```python
+names = ['Jane', 'Jennifer', 'Melissa', 'Tabitha']
+
+names = reversed(names)
+
+for z in names:
+    print(z)
+
+input('')
+```
