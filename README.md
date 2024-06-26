@@ -25,7 +25,7 @@ input('')
 ---
 
 ### ``` time.sleep(), while loop ```
-### ```python
+```python
 import time
 
 x = 0
