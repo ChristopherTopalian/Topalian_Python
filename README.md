@@ -114,3 +114,41 @@ for z in range(len(ourNumbers)):
 
 input('')
 ```
+
+---
+
+#### ``` write custom HTML file ```
+```python
+ourHTMLContent = """
+<html>
+<head>
+<title> Our HTML page </title>
+
+<style>
+
+body
+{
+    padding: 10px;
+    background-color: rgb(30, 30, 30);
+    font-family: Arial;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div> Hi Everyone </p>
+
+</body>
+
+</html>
+
+"""
+
+with open('ourNewWebpage.html', 'w') as theFile:
+    theFile.write(ourHTMLContent)
+```
