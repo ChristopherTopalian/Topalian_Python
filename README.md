@@ -152,3 +152,41 @@ body
 with open('ourNewWebpage.html', 'w') as theFile:
     theFile.write(ourHTMLContent)
 ```
+
+---
+
+#### ``` write custom HTML file with Python Date ```
+```python
+ourHTMLContent = """
+<html>
+<head>
+<title> Our HTML page </title>
+
+<style>
+
+body
+{
+    padding: 10px;
+    background-color: rgb(30, 30, 30);
+    font-family: Arial;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div> Hi Everyone </div>
+
+</body>
+
+</html>
+
+"""
+
+with open('ourNewWebpage.html', 'w') as theFile:
+    theFile.write(ourHTMLContent)
+```
