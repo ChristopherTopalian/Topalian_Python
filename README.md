@@ -243,3 +243,11 @@ input('')
 ```
 
 ---
+
+#### ``` input username ```
+```python
+userName = input("Enter Username: ")
+
+print("Username is: " + userName)
+input('')
+```
