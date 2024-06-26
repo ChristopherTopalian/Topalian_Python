@@ -216,6 +216,20 @@ input('')
 
 ---
 
+#### ``` sort list ```
+```python
+names = ['Melissa', 'Jennifer', 'Tabitha', 'Jane']
+
+names.sort()
+
+for z in names:
+    print(z)
+
+input('')
+```
+
+---
+
 #### ``` reverse list ```
 ```python
 names = ['Jane', 'Jennifer', 'Melissa', 'Tabitha']
