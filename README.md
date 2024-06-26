@@ -1,7 +1,7 @@
 # Topalian_Python
 
 ### ``` os.getcwd() ```
-###```python
+```python
 import os
 
 theFolderPath = os.getcwd()
@@ -13,7 +13,7 @@ input('')
 ---
 
 ### ``` time.sleep() ```
-### ```python
+```python
 import time
 
 time.sleep(4.0)
@@ -40,7 +40,7 @@ input('')
 ---
 
 ### ``` while loop activated by input ```
-### ```python
+```python
 import time
 
 x = input('Type 1 and press Enter\n')
