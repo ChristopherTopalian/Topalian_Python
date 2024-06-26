@@ -53,18 +53,3 @@ while (x == '1'):
 
 input('')
 ```
-
-### os.getcwd()
-```html
-<div style="font-size: 20px;">
-<pre>
-<code>
-import os
-
-theFolderPath = os.getcwd()
-
-print(theFolderPath)
-input('')
-</code>
-</pre>
-</div>
