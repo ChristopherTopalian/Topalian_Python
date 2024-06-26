@@ -1,6 +1,6 @@
 # Topalian_Python
 
-### getcwd()
+### os.getcwd()
  ```python
 import os
 
@@ -10,3 +10,14 @@ print(theFolderPath)
 input('')
 ```
 
+---
+
+### time.sleep()
+```python
+import time
+
+time.sleep(4.0)
+
+print('4 seconds passed')
+input('')
+```
