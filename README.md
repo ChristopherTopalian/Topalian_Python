@@ -81,8 +81,8 @@ input('')
 
 #### ``` getuser() ```
 ```python
-from getpass import getuser
+import getpass
 
-print(getuser())
+print(getpass.getuser())
 input('')
 ```
