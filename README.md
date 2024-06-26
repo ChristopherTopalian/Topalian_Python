@@ -265,3 +265,12 @@ else:
 
 input('')
 ```
+
+---
+
+#### ``` open webpage in browser ```
+```python
+import webbrowser
+
+webbrowser.open('https://github.com/ChristopherTopalian')
+```
