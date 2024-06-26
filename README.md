@@ -216,7 +216,7 @@ input('')
 
 ---
 
-#### ``` for loop with reverse ```
+#### ``` for loop with reversed ```
 ```python
 names = ['Jane', 'Jennifer', 'Melissa', 'Tabitha']
 
