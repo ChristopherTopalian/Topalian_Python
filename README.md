@@ -157,27 +157,32 @@ with open('ourNewWebpage.html', 'w') as theFile:
 
 #### ``` write custom HTML file with Python Date ```
 ```python
-ourHTMLContent = """
+import datetime as dt
+
+currentDate = dt.datetime.now().strftime('%Y-%m-%d')
+
+ourHTMLContent = f"""
 <html>
 <head>
-<title> Our HTML page </title>
+<title> Our HTML Page </title>
 
 <style>
 
-body
-{
+body {{
     padding: 10px;
     background-color: rgb(30, 30, 30);
     font-family: Arial;
     font-size: 20px;
     color: rgb(255, 255, 255);
-}
+}}
 
 </style>
 
 </head>
 
 <body>
+
+<div> Current Date: {currentDate} </div>
 
 <div> Hi Everyone </div>
 
