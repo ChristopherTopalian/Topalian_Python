@@ -251,3 +251,17 @@ userName = input("Enter Username: ")
 print("Username is: " + userName)
 input('')
 ```
+
+---
+
+#### username with if else
+```python
+userName = input("Enter Username: ")
+
+if (userName == 'Christopher'):
+    print('Hi Christopher')
+else:
+    print(f'Hi {userName}. Where is Christopher?')
+
+input('')
+```
