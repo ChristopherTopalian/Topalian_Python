@@ -1,11 +1,6 @@
 # Topalian_Python
-Learn Python the fun way with our visual teaching style. Learn step by step here.
 
-INSTALL PYTHON
-* Download Python from the official source https://www.python.org/downloads/
-* Install Python
-
-## getcwd()
+### getcwd()
  ```python
 # getCurrentWorkingDirectory.py
 
