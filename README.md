@@ -12,7 +12,7 @@ input('')
 
 ---
 
-``` time.sleep() ```
+### time.sleep()
 ```python
 import time
 
