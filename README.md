@@ -12,7 +12,7 @@ input('')
 
 ---
 
-### time.sleep()
+### ``` time.sleep() ```
 ```python
 import time
 
@@ -24,7 +24,7 @@ input('')
 
 ---
 
-``` time.sleep(), while loop ```
+### ``` time.sleep(), while loop ```
 ```python
 import time
 
@@ -39,7 +39,7 @@ input('')
 
 ---
 
-``` while loop activated by input ```
+### ``` while loop activated by input ```
 ```python
 import time
 
