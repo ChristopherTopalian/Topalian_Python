@@ -16,13 +16,13 @@ Instructions:
    * Name your file as ourCode.py
    * Left Click Save Button to confirm the save
    
- RUN OUR SCRIPT
-   * Left Click Run Menu - Left Click Run Module OR
-   * Press F5 to run the script
-   * To run the script from our folder, we just double click on the file named ourCode.py
+ ```
+# getCurrentWorkingDirectory.py
 
-   We can create our python code very easily.
+import os
 
-   We just type our python code in our python code editor and then save it as ourCode.py
+theFolderPath = os.getcwd()
 
-   If we want no console window to open with the app, then we name our file as ourFile.pyw
+print(theFolderPath)
+input('')
+```
