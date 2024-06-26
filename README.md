@@ -76,3 +76,13 @@ else:
 
 input('')
 ```
+
+---
+
+#### ``` getuser() ```
+```python
+from getpass import getuser
+
+print(getuser())
+input('')
+```
