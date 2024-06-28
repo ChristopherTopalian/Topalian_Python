@@ -3,7 +3,7 @@ Dedicated to God the Father
 All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024
 https://github.com/ChristopherTopalian
 
-[print](https://github.com/ChristopherTopalian/Topalian_Python/blob/main/print/print001/print.py)
+[print](print/print001/print.py)
 
 #### ``` os.getcwd() ```
 ```python
